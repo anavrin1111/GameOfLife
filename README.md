@@ -21,7 +21,7 @@ In Visual Studio, add d2d1.lib to the following. Ensure all configurations is se
 Project -> <Project Name> properties -> Linker -> Input -> Additional Dependencies
 ```
 
-Then build the solution or select `Debug -> Start Without -> Debugging`.
+Then build the solution or select `Debug -> Start Without Debugging`.
 
 ## About
 
